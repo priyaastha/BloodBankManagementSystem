@@ -1,0 +1,48 @@
+/*navigation bar*/
+.topnav {
+  overflow: hidden;
+  background-color: #8c1406;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 20px 18px;
+  text-decoration: none;
+  font-size: 25px;
+}
+
+.topnav a:hover {
+  background-color: rgb(194, 0, 0);
+  color: black;
+}
+
+/*footer*/
+.foo {
+width:100%;
+background-color:#8c1406;
+text-align:center;
+padding:10px 12px;
+color:white;
+margin-bottom: 0%;
+}
+
+.btn{
+background-color:#8c1406;
+margin-left:200px;
+font-size:25px;
+color:white;
+padding:25px 16px;
+}
+
+.col-md-6{
+margin-left: auto;
+margin-right: auto;
+background-color: #f6f6f6;
+padding: 10px;
+border-radius: 5px;
+border:5px; 
+width:100%; 
+font-size:25px;
+}
